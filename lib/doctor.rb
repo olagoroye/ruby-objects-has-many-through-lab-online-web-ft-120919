@@ -1,16 +1,3 @@
-
-
-Skip to content
-Using Gmail with screen readers
-
-Conversations
-1.18 GB (7%) of 15 GB used
-Manage
-Terms · Privacy · Programme Policies
-Last account activity: 18 minutes ago
-Details
-
-
 class Doctor
     attr_reader :name
 
