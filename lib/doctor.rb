@@ -41,5 +41,3 @@ class Doctor
         end
     end
 end
-doctor.rb
-Displaying doctor.rb.
